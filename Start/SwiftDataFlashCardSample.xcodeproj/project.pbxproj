@@ -92,6 +92,7 @@
 		69EF5A7029F0D6CA0065D5D2 /* HorizontalFlip.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalFlip.swift; sourceTree = "<group>"; };
 		69EF5A7129F0D6CA0065D5D2 /* UTType+FlashCards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UTType+FlashCards.swift"; sourceTree = "<group>"; };
 		DB3F893975C9C2026B584932 /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = ../Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
+		EA0F29B72AD029DD007BA524 /* SwiftDataFlashCardSample-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "SwiftDataFlashCardSample-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +116,7 @@
 		371BAA5129EFAB1900011A7C = {
 			isa = PBXGroup;
 			children = (
+				EA0F29B72AD029DD007BA524 /* SwiftDataFlashCardSample-Info.plist */,
 				05EB0E8B05EE4F38F8CDA5DB /* README.md */,
 				371BAA5C29EFAB1900011A7C /* FlashCard */,
 				371BAA5B29EFAB1900011A7C /* Products */,
@@ -613,6 +615,8 @@
 				DEVELOPMENT_TEAM = J6WDBVB643;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SwiftDataFlashCardSample-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
@@ -652,6 +656,8 @@
 				DEVELOPMENT_TEAM = J6WDBVB643;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "SwiftDataFlashCardSample-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
