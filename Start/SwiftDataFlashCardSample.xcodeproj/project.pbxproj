@@ -40,6 +40,7 @@
 		69EF5A6929F0D65E0065D5D2 /* SampleDeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF5A6829F0D65E0065D5D2 /* SampleDeck.swift */; };
 		69EF5A7229F0D6CA0065D5D2 /* HorizontalFlip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF5A7029F0D6CA0065D5D2 /* HorizontalFlip.swift */; };
 		69EF5A7329F0D6CA0065D5D2 /* UTType+FlashCards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69EF5A7129F0D6CA0065D5D2 /* UTType+FlashCards.swift */; };
+		EA0F29B62AD0261B007BA524 /* PreviewSampleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69A61CCE2A054C96006668BC /* PreviewSampleData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -348,6 +349,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA0F29B62AD0261B007BA524 /* PreviewSampleData.swift in Sources */,
 				371BAA6029EFAB1900011A7C /* ContentView.swift in Sources */,
 				696D18A729FB594D003F6D01 /* CardContainerView.swift in Sources */,
 				371BAA5E29EFAB1900011A7C /* SwiftDataFlashCardSample.swift in Sources */,
